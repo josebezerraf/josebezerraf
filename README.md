@@ -10,6 +10,12 @@
   <img align="center" alt="Jose-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+<!--
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josebezerraf&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josebezerraf&layout=compact&theme=radical)](https://github.com/josebezerraf/github-readme-stats)
+-->
+
 #### Redes sociais e contato:
 
 <div style="display: inline_block">
